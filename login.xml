@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Login>
+  <Server Override="False" ResolveDNS="True">datacenter.ddns.net</Server>
+  <!--<Server>31.221.89.6</Server>-->
+  <Port>6832</Port>
+</Login>

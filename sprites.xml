@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SpriteFiles>
+  <SpriteFile Name="WBodice1.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="1" />
+  <SpriteFile Name="WBodice2.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="2" />
+  <SpriteFile Name="WLArmor.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="3" />
+  <SpriteFile Name="WCMail.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="4" />
+  <SpriteFile Name="WSMail.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="5" />
+  <SpriteFile Name="WPMail.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="6" />
+  <SpriteFile Name="WRobe1.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="7" />
+  <SpriteFile Name="WSanta.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="8" />
+  <SpriteFile Name="WHPMail1.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="9" />
+  <SpriteFile Name="WHPMail2.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="10" />
+  <SpriteFile Name="WHRobe1.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="11" />
+  <SpriteFile Name="WHRobe2.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="12" />
+  <SpriteFile Name="WHLArmor1.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="13" />
+  <SpriteFile Name="WHLArmor2.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="14" />
+  <SpriteFile Name="WHBPlate1.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="15" />
+  <SpriteFile Name="WHBPlate2.spr" Type="Armour" Id="FemaleBody" Range="15" Count="12" Appearance="16" />
+
+  <SpriteFile Name="WChemiss.spr" Type="Armour" Id="FemaleArms" Range="15" Count="12" Appearance="1" />
+  <SpriteFile Name="WShirt.spr" Type="Armour" Id="FemaleArms" Range="15" Count="12" Appearance="2" />
+  <SpriteFile Name="WHauberk.spr" Type="Armour" Id="FemaleArms" Range="15" Count="12" Appearance="3" />
+  <SpriteFile Name="WHHauberk1.spr" Type="Armour" Id="FemaleArms" Range="15" Count="12" Appearance="4" />
+  <SpriteFile Name="WHHauberk2.spr" Type="Armour" Id="FemaleArms" Range="15" Count="12" Appearance="5" />
+
+  <SpriteFile Name="WSkirt.spr" Type="Armour" Id="FemaleLegs" Range="15" Count="12" Appearance="1" />
+  <SpriteFile Name="WTrouser.spr" Type="Armour" Id="FemaleLegs" Range="15" Count="12" Appearance="2" />
+  <SpriteFile Name="WHTrouser.spr" Type="Armour" Id="FemaleLegs" Range="15" Count="12" Appearance="3" />
+  <SpriteFile Name="WCHoses.spr" Type="Armour" Id="FemaleLegs" Range="15" Count="12" Appearance="4" />
+  <SpriteFile Name="WLeggings.spr" Type="Armour" Id="FemaleLegs" Range="15" Count="12" Appearance="5" />
+  <SpriteFile Name="WHLeggings1.spr" Type="Armour" Id="FemaleLegs" Range="15" Count="12" Appearance="6" />
+  <SpriteFile Name="WHLeggings2.spr" Type="Armour" Id="FemaleLegs" Range="15" Count="12" Appearance="7" />
+
+  <SpriteFile Name="WShoes.spr" Type="Armour" Id="FemaleBoots" Range="15" Count="12" Appearance="1" />
+  <SpriteFile Name="WLBoots.spr" Type="Armour" Id="FemaleBoots" Range="15" Count="12" Appearance="2" />
+
+  <SpriteFile Name="WHelm1.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="1" /> 
+  <SpriteFile Name="WHelm4.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="4" />
+  <SpriteFile Name="NWHelm1.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="5" />
+  <SpriteFile Name="NWHelm2.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="6" />
+  <SpriteFile Name="NWHelm3.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="7" />
+  <SpriteFile Name="NWHelm4.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="8" />
+  <SpriteFile Name="WHHelm1.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="9" />
+  <SpriteFile Name="WHHelm2.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="10" />
+  <SpriteFile Name="WHCap1.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="11" />
+  <SpriteFile Name="WHCap2.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="12" />
+  <SpriteFile Name="WHHood1.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="13" />
+  <SpriteFile Name="WHHood2.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="14" />
+  <SpriteFile Name="WBCap.spr" Type="Armour" Id="FemaleHead" Range="15" Count="12" Appearance="15" />
+
+  <SpriteFile Name="Wmantle01.spr" Type="Armour" Id="FemaleCape" Range="15" Count="12" Appearance="1" />
+  <SpriteFile Name="Wmantle02.spr" Type="Armour" Id="FemaleCape" Range="15" Count="12" Appearance="2" />
+  <SpriteFile Name="Wmantle03.spr" Type="Armour" Id="FemaleCape" Range="15" Count="12" Appearance="3" />
+  <SpriteFile Name="Wmantle04.spr" Type="Armour" Id="FemaleCape" Range="15" Count="12" Appearance="4" />
+  <SpriteFile Name="Wmantle05.spr" Type="Armour" Id="FemaleCape" Range="15" Count="12" Appearance="5" />
+  <SpriteFile Name="Wmantle06.spr" Type="Armour" Id="FemaleCape" Range="15" Count="12" Appearance="6" />
+
+  <SpriteFile Name="Wsh.spr" Type="Shields" Id="FemaleShield" Range="8" Count="63" Appearance="1" />
+
+  <SpriteFile Name="Wsw.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="672" Appearance="1" />
+  <SpriteFile Name="Wswx.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="5" />
+  <SpriteFile Name="Wsw2.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="13" />
+  <SpriteFile Name="Wsw3.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="14" />
+  <SpriteFile Name="Wbo.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="40" />
+  <SpriteFile Name="Wbo.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="41" />
+  <SpriteFile Name="WDirectBow.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="42" />
+  <SpriteFile Name="WFireBow.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="43" />
+
+  <SpriteFile Name="WStormBringer.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="15" />
+  <SpriteFile Name="WDarkExec.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="16" />
+  <SpriteFile Name="WKlonessBlade.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="17" />
+  <SpriteFile Name="WKlonessAstock.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="18" />
+  <SpriteFile Name="WDebastator.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="19" />
+
+  <SpriteFile Name="WAxe1.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="20" />
+  <SpriteFile Name="WAxe2.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="21" />
+  <SpriteFile Name="WAxe3.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="22" />
+  <SpriteFile Name="WAxe4.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="23" />
+  <SpriteFile Name="WAxe5.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="24" />
+  <SpriteFile Name="WpickAxe1.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="25" />
+  <SpriteFile Name="WAxe6.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="26" />
+  <SpriteFile Name="WHoe.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="27" />
+  <SpriteFile Name="WKlonessAxe.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="28" />
+  <SpriteFile Name="WLightBlade.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="29" />
+
+  <SpriteFile Name="WHammer.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="30" />
+  <SpriteFile Name="WBHammer.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="31" />
+  <SpriteFile Name="WBabHammer.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="32" />
+  <SpriteFile Name="WBShadowSword.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="33" />
+
+  <SpriteFile Name="WBerserkWand.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="34" />
+  <SpriteFile Name="Wstaff1.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="35" />
+  <SpriteFile Name="Wstaff2.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="36" />
+  <SpriteFile Name="Wstaff3.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="37" />
+  <SpriteFile Name="Wstaff4.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="51" />
+  <SpriteFile Name="WReMagicWand.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="38" />
+  <SpriteFile Name="WKlonessWand.spr" Type="Weapons" Id="FemaleWeapon" Range="64" Count="56" Appearance="39" />
+
+  <SpriteFile Name="MLArmor.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="1" />
+  <SpriteFile Name="MCMail.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="2" />
+  <SpriteFile Name="MSMail.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="3" />
+  <SpriteFile Name="MPMail.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="4" />
+  <SpriteFile Name="Mtunic.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="5" />
+  <SpriteFile Name="MRobe1.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="6" />
+  <SpriteFile Name="MSanta.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="7" />
+  <SpriteFile Name="MHPMail1.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="8" />
+  <SpriteFile Name="MHPMail2.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="9" />
+  <SpriteFile Name="MHRobe1.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="10" />
+  <SpriteFile Name="MHRobe2.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="11" />
+  <SpriteFile Name="MHLArmor1.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="12" />
+  <SpriteFile Name="MHLArmor2.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="13" />
+  <SpriteFile Name="MHBPlate1.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="14" />
+  <SpriteFile Name="MHBPlate2.spr" Type="Armour" Id="MaleBody" Range="15" Count="12" Appearance="15" />
+
+
+  <SpriteFile Name="MShirt.spr" Type="Armour" Id="MaleArms" Range="15" Count="12" Appearance="1" />
+  <SpriteFile Name="MHauberk.spr" Type="Armour" Id="MaleArms" Range="15" Count="12" Appearance="2" />
+  <SpriteFile Name="MHHauberk1.spr" Type="Armour" Id="MaleArms" Range="15" Count="12" Appearance="3" />
+  <SpriteFile Name="MHHauberk2.spr" Type="Armour" Id="MaleArms" Range="15" Count="12" Appearance="4" />
+
+  <SpriteFile Name="MTrouser.spr" Type="Armour" Id="MaleLegs" Range="15" Count="12" Appearance="1" />
+  <SpriteFile Name="MHTrouser.spr" Type="Armour" Id="MaleLegs" Range="15" Count="12" Appearance="2" />
+  <SpriteFile Name="MCHoses.spr" Type="Armour" Id="MaleLegs" Range="15" Count="12" Appearance="3" />
+  <SpriteFile Name="MLeggings.spr" Type="Armour" Id="MaleLegs" Range="15" Count="12" Appearance="4" />
+  <SpriteFile Name="MHLeggings1.spr" Type="Armour" Id="MaleLegs" Range="15" Count="12" Appearance="5" />
+  <SpriteFile Name="MHLeggings2.spr" Type="Armour" Id="MaleLegs" Range="15" Count="12" Appearance="6" />
+
+  <SpriteFile Name="MShoes.spr" Type="Armour" Id="MaleBoots" Range="15" Count="12" Appearance="1" />
+  <SpriteFile Name="MLBoots.spr" Type="Armour" Id="MaleBoots" Range="15" Count="12" Appearance="2" />
+
+  <SpriteFile Name="MHelm1.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="1" />
+  <SpriteFile Name="MHelm2.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="2" />
+  <SpriteFile Name="MHelm3.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="3" />
+  <SpriteFile Name="MHelm4.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="4" />
+  <SpriteFile Name="NMHelm1.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="5" />
+  <SpriteFile Name="NMHelm2.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="6" />
+  <SpriteFile Name="NMHelm3.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="7" />
+  <SpriteFile Name="NMHelm4.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="8" />
+  <SpriteFile Name="MHHelm1.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="9" />
+  <SpriteFile Name="MHHelm2.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="10" />
+  <SpriteFile Name="MHCap1.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="11" />
+  <SpriteFile Name="MHCap2.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="12" />
+  <SpriteFile Name="MHHood1.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="13" />
+  <SpriteFile Name="MHHood2.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="14" />
+  <SpriteFile Name="MBCap.spr" Type="Armour" Id="MaleHead" Range="15" Count="12" Appearance="15" />
+
+  <SpriteFile Name="Mmantle01.spr" Type="Armour" Id="MaleCape" Range="15" Count="12" Appearance="1" />
+  <SpriteFile Name="Mmantle02.spr" Type="Armour" Id="MaleCape" Range="15" Count="12" Appearance="2" />
+  <SpriteFile Name="Mmantle03.spr" Type="Armour" Id="MaleCape" Range="15" Count="12" Appearance="3" />
+  <SpriteFile Name="Mmantle04.spr" Type="Armour" Id="MaleCape" Range="15" Count="12" Appearance="4" />
+  <SpriteFile Name="Mmantle05.spr" Type="Armour" Id="MaleCape" Range="15" Count="12" Appearance="5" />
+  <SpriteFile Name="Mmantle06.spr" Type="Armour" Id="MaleCape" Range="15" Count="12" Appearance="6" />
+
+  <SpriteFile Name="Msh.spr" Type="Shields" Id="MaleShield" Range="8" Count="63" Appearance="1" />
+
+  <SpriteFile Name="Msw.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="672" Appearance="1" />
+  <SpriteFile Name="Mswx.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="5" />
+  <SpriteFile Name="Msw2.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="13" />
+  <SpriteFile Name="Msw3.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="14" />
+  <SpriteFile Name="Mbo.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="40" />
+  <SpriteFile Name="Mbo.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="41" />
+  <SpriteFile Name="MDirectBow.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="42" />
+  <SpriteFile Name="MFireBow.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="43" />
+
+  <SpriteFile Name="MStormBringer.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="15" />
+  <SpriteFile Name="MDarkExec.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="16" />
+  <SpriteFile Name="MKlonessBlade.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="17" />
+  <SpriteFile Name="MKlonessAstock.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="18" />
+  <SpriteFile Name="MDebastator.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="19" />
+
+  <SpriteFile Name="MAxe1.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="20" />
+  <SpriteFile Name="MAxe2.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="21" />
+  <SpriteFile Name="MAxe3.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="22" />
+  <SpriteFile Name="MAxe4.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="23" />
+  <SpriteFile Name="MAxe5.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="24" />
+  <SpriteFile Name="MpickAxe1.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="25" />
+  <SpriteFile Name="MAxe6.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="26" />
+  <SpriteFile Name="MHoe.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="27" />
+  <SpriteFile Name="MKlonessAxe.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="28" />
+  <SpriteFile Name="MLightBlade.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="29" />
+
+  <SpriteFile Name="MHammer.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="30" />
+  <SpriteFile Name="MBHammer.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="31" />
+  <SpriteFile Name="MBabHammer.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="32" />
+  <SpriteFile Name="MBShadowSword.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="33" />
+  
+  <SpriteFile Name="MBerserkWand.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="34" />
+  <SpriteFile Name="Mstaff1.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="35" />
+  <SpriteFile Name="Mstaff2.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="36" />
+  <SpriteFile Name="Mstaff3.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="37" />
+  <SpriteFile Name="Mstaff4.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="51" />
+  <SpriteFile Name="MReMagicWand.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="38" />
+  <SpriteFile Name="MKlonessWand.spr" Type="Weapons" Id="MaleWeapon" Range="64" Count="56" Appearance="39" />
+
+  <SpriteFile Name="TutelarAngel1.spr" Type="Armour" Id="Angels" Range="0" Count="48" Appearance="1" />
+  <SpriteFile Name="TutelarAngel2.spr" Type="Armour" Id="Angels" Range="50" Count="48" Appearance="1" />
+  <SpriteFile Name="TutelarAngel3.spr" Type="Armour" Id="Angels" Range="100" Count="48" Appearance="1" />
+  <SpriteFile Name="TutelarAngel4.spr" Type="Armour" Id="Angels" Range="150" Count="48" Appearance="1" />
+</SpriteFiles>

@@ -1,0 +1,109 @@
+<Dialogs>
+    <Character Name="Four" >
+        <Resolution Size="Classic" >
+            <Dialog Type="IconPanelHP" X="18" Y="421" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelMP" X="18" Y="446" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelSP" X="143" Y="421" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelLocation" X="143" Y="436" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelWeapon" X="332" Y="421" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelCharacter" X="380" Y="420" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelInventory" X="418" Y="421" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelSpellBook" X="456" Y="421" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelStats" X="494" Y="421" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelChat" X="532" Y="421" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelSystem" X="570" Y="421" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="HotBarV2" X="5" Y="72" Hidden="False" AlwaysVisible="True" State="Vertical" />
+            <Dialog Type="PartyBarV2" X="430" Y="40" Hidden="True" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="MerchantV2" X="5" Y="5" Hidden="True" AlwaysVisible="False" State="Buy" />
+            <Dialog Type="TradeV2" X="5" Y="5" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="IconPanelLock" X="615" Y="450" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="MiniMap" X="0" Y="0" Hidden="False" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Character" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Inventory" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="InventoryV2" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Magic" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="MagicV2" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Skill" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Chat" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="System" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="LevelUp" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Quest" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Party" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Upgrade" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="UpgradeV2" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="WarehouseV2" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="MagicShop" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Manufacture" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+        </Resolution>
+        <Resolution Size="Standard" >
+            <Dialog Type="IconPanelHP" X="95" Y="545" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelMP" X="95" Y="570" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelSP" X="220" Y="545" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelLocation" X="220" Y="560" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelWeapon" X="452" Y="545" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelCharacter" X="500" Y="544" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelInventory" X="538" Y="545" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelSpellBook" X="576" Y="545" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelStats" X="614" Y="545" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelChat" X="652" Y="545" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelSystem" X="690" Y="545" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="HotBarV2" X="5" Y="190" Hidden="False" AlwaysVisible="True" State="Vertical" />
+            <Dialog Type="PartyBarV2" X="590" Y="40" Hidden="True" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="MerchantV2" X="5" Y="5" Hidden="True" AlwaysVisible="False" State="Buy" />
+            <Dialog Type="TradeV2" X="5" Y="5" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="IconPanelLock" X="775" Y="570" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="MiniMap" X="0" Y="0" Hidden="False" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Character" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Inventory" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="InventoryV2" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Magic" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="MagicV2" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Skill" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Chat" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="System" X="32" Y="32" Hidden="False" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="LevelUp" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Quest" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Party" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Upgrade" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="UpgradeV2" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="WarehouseV2" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="MagicShop" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Manufacture" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+        </Resolution>
+        <Resolution Size="Large" >
+            <Dialog Type="IconPanelHP" X="122" Y="698" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelMP" X="122" Y="723" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelSP" X="282" Y="698" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelLocation" X="282" Y="713" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelWeapon" X="576" Y="698" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelCharacter" X="631" Y="697" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelInventory" X="676" Y="698" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelSpellBook" X="721" Y="698" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelStats" X="766" Y="698" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelChat" X="811" Y="698" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="IconPanelSystem" X="856" Y="698" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="HotBarV2" X="5" Y="332" Hidden="False" AlwaysVisible="True" State="Vertical" />
+            <Dialog Type="PartyBarV2" X="814" Y="40" Hidden="True" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="MerchantV2" X="5" Y="5" Hidden="True" AlwaysVisible="False" State="Buy" />
+            <Dialog Type="TradeV2" X="5" Y="5" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="IconPanelLock" X="992" Y="730" Hidden="False" AlwaysVisible="True" State="Normal" />
+            <Dialog Type="MiniMap" X="0" Y="0" Hidden="False" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Character" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Inventory" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="InventoryV2" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Magic" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="MagicV2" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Skill" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Chat" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="System" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="LevelUp" X="32" Y="25" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Quest" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Party" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Upgrade" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="UpgradeV2" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="WarehouseV2" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="MagicShop" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+            <Dialog Type="Manufacture" X="32" Y="32" Hidden="True" AlwaysVisible="False" State="Normal" />
+        </Resolution>
+    </Character>
+</Dialogs>
