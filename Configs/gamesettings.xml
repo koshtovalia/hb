@@ -1,0 +1,7 @@
+<Settings>
+   <Bool MusicOn="False" SoundOn="False" TransparentDialogs="False" TeamColorOn="False" PartyColorOn="False" GuildColorOn="False" TownColorOn="True" FullScreen="False" InventoryV2="True" SpellBookV2="True" LowHealthIndicator="True" RegenRings="False" HpRing="True" MpRing="True" SpRing="False" ExpRing="False" />
+   <Float MusicVolume="50" SoundVolume="50" LowHealthFlashValue="0.3" />
+   <Int MaxChatHistory="5" MiniMapZoomLevel="0" PartyTeamColor="-65281" GuildTeamColor="-16711936" AresdenTeamColor="-65536" ElvineTeamColor="-16776961" />
+   <ChatFilters Local="True" Wisper="True" Global="True" Town="True" Party="True" Guild="True" />
+   <String DetailMode="High" Resolution="Large" />
+</Settings>

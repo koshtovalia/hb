@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Unlocks>
+  <Unlock Type="ItemStatCount" Key="Weapon" Value="2" Cost="50" />
+  <Unlock Type="ItemStatCount" Key="Weapon" Value="3" Cost="100" />
+  <Unlock Type="ItemStatCount" Key="Weapon" Value="4" Cost="300" />
+  <Unlock Type="ItemStatCount" Key="Weapon" Value="5" Cost="550" />
+  <Unlock Type="ItemStatCount" Key="Armour" Value="2" Cost="50" />
+  <Unlock Type="ItemStatCount" Key="Armour" Value="3" Cost="100" />
+  <Unlock Type="ItemStatCount" Key="Armour" Value="4" Cost="300" />
+  <Unlock Type="ItemStatCount" Key="Armour" Value="5" Cost="550" />
+
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="10" Cost="2" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="15" Cost="6" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="20" Cost="12" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="25" Cost="20" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="30" Cost="30" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="35" Cost="42" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="40" Cost="54" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="45" Cost="68" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="50" Cost="88" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="55" Cost="120" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="60" Cost="142" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="65" Cost="166" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="70" Cost="192" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="75" Cost="220" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="80" Cost="250" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="85" Cost="282" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="90" Cost="316" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="95" Cost="352" />
+  <Unlock Type="ItemStat" Key="PoisonResistance" Value="100" Cost="390" />
+
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="10" Cost="10" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="15" Cost="20" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="20" Cost="40" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="25" Cost="70" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="30" Cost="110" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="35" Cost="160" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="40" Cost="220" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="45" Cost="290" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="50" Cost="370" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="55" Cost="500" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="60" Cost="640" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="65" Cost="790" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="70" Cost="950" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="75" Cost="1120" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="80" Cost="1300" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="85" Cost="1490" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="90" Cost="1690" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="95" Cost="1900" />
+  <Unlock Type="ItemStat" Key="HPRecovery" Value="100" Cost="2120" />
+
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="10" Cost="10" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="15" Cost="20" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="20" Cost="40" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="25" Cost="70" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="30" Cost="110" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="35" Cost="160" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="40" Cost="220" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="45" Cost="290" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="50" Cost="370" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="55" Cost="500" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="60" Cost="640" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="65" Cost="790" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="70" Cost="950" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="75" Cost="1120" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="80" Cost="1300" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="85" Cost="1490" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="90" Cost="1690" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="95" Cost="1900" />
+  <Unlock Type="ItemStat" Key="MPRecovery" Value="100" Cost="2120" />
+</Unlocks>

@@ -1,0 +1,1371 @@
+<Npcs>
+   <Npc Id="1" Name="Slime" FriendlyName="Slime" Level="1" Type="10" Size="Small" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="2" BaseExperienceThrow="2" BaseDamageThrow="1" BaseDamageRange="4" Dexterity="10" Vitality="6" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:05" ActionTime="00:00:02.1000000" MaximumGold="50" Sprite="slm.spr">
+      <Loot>
+         <Item ItemId="1" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="55" Drop="Primary" />
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="258" Drop="Primary" />
+         <Item ItemId="265" Drop="Primary" />
+         <Item ItemId="269" Drop="Primary" />
+         <Item ItemId="271" Drop="Primary" />
+         <Item ItemId="279" Drop="Primary" />
+         <Item ItemId="282" Drop="Primary" />
+         <Item ItemId="147" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="2" Name="Rabbit" FriendlyName="Rabbit" Level="1" Type="55" Size="Small" MobDifficulty="Normal" Side="Neutral" AttackRange="1" SearchRange="2" BaseExperienceThrow="4" BaseDamageThrow="1" BaseDamageRange="5" Dexterity="10" Vitality="12" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:05" ActionTime="00:00:01.5000000" MaximumGold="100" Sprite="bunny.spr">
+      <Loot>
+         <Item ItemId="1" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="55" Drop="Primary" />
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="110" Drop="Primary" />
+         <Item ItemId="258" Drop="Primary" />
+         <Item ItemId="265" Drop="Primary" />
+         <Item ItemId="269" Drop="Primary" />
+         <Item ItemId="271" Drop="Primary" />
+         <Item ItemId="279" Drop="Primary" />
+         <Item ItemId="282" Drop="Primary" />
+      </Loot>
+   </Npc>
+   <Npc Id="3" Name="Cat" FriendlyName="Cat" Level="1" Type="56" Size="Small" MobDifficulty="Normal" Side="Neutral" AttackRange="1" SearchRange="5" BaseExperienceThrow="6" BaseDamageThrow="2" BaseDamageRange="4" Dexterity="20" Vitality="12" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:05" ActionTime="00:00:01.5000000" MaximumGold="150" Sprite="cat.spr">
+      <Loot>
+         <Item ItemId="1" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="55" Drop="Primary" />
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="110" Drop="Primary" />
+         <Item ItemId="258" Drop="Primary" />
+         <Item ItemId="265" Drop="Primary" />
+         <Item ItemId="269" Drop="Primary" />
+         <Item ItemId="271" Drop="Primary" />
+         <Item ItemId="279" Drop="Primary" />
+         <Item ItemId="282" Drop="Primary" />
+      </Loot>
+   </Npc>
+   <Npc Id="4" Name="Giant-Ant" FriendlyName="Giant-Ant" Level="1" Type="16" Size="Small" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="2" BaseExperienceThrow="4" BaseDamageThrow="2" BaseDamageRange="3" Dexterity="15" Vitality="9" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:05" ActionTime="00:00:01.2000000" MaximumGold="100" Sprite="ant.spr">
+      <Loot>
+         <Item ItemId="1" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="258" Drop="Primary" />
+         <Item ItemId="264" Drop="Primary" />
+         <Item ItemId="269" Drop="Primary" />
+         <Item ItemId="272" Drop="Primary" />
+         <Item ItemId="278" Drop="Primary" />
+         <Item ItemId="282" Drop="Primary" />
+         <Item ItemId="118" Drop="Secondary" />
+         <Item ItemId="119" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="5" Name="Amphis" FriendlyName="Snake" Level="1" Type="22" Size="Small" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="3" BaseExperienceThrow="6" BaseDamageThrow="2" BaseDamageRange="4" Dexterity="30" Vitality="12" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:05" ActionTime="00:00:01" MaximumGold="150" Sprite="amp.spr">
+      <Loot>
+         <Item ItemId="1" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="55" Drop="Primary" />
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="258" Drop="Primary" />
+         <Item ItemId="264" Drop="Primary" />
+         <Item ItemId="269" Drop="Primary" />
+         <Item ItemId="272" Drop="Primary" />
+         <Item ItemId="278" Drop="Primary" />
+         <Item ItemId="282" Drop="Primary" />
+         <Item ItemId="363" Drop="Secondary" />
+         <Item ItemId="362" Drop="Secondary" />
+         <Item ItemId="364" Drop="Secondary" />
+         <Item ItemId="343" Drop="Secondary" />
+         <Item ItemId="115" Drop="Secondary" />
+         <Item ItemId="116" Drop="Secondary" />
+         <Item ItemId="117" Drop="Secondary" />
+         <Item ItemId="118" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="6" Name="Orc" FriendlyName="Orc" Level="2" Type="14" Size="Small" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="5" BaseExperienceThrow="10" BaseDamageThrow="3" BaseDamageRange="3" Dexterity="37" Vitality="12" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:05" ActionTime="00:00:01.2000000" MaximumGold="250" Sprite="orc.spr"> 
+      <Loot>
+         <Item ItemId="10" Drop="Primary" />
+         <Item ItemId="13" Drop="Primary" />
+         <Item ItemId="58" Drop="Primary" />
+         <Item ItemId="61" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="20" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="168" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="262" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="275" Drop="Primary" />
+         <Item ItemId="191" Drop="Secondary" />
+         <Item ItemId="188" Drop="Secondary" />
+         <Item ItemId="189" Drop="Secondary" />
+         <Item ItemId="192" Drop="Secondary" />
+         <Item ItemId="190" Drop="Secondary" />
+         <Item ItemId="357" Drop="Secondary" />
+         <Item ItemId="358" Drop="Secondary" />
+         <Item ItemId="132" Drop="Secondary" />
+         <Item ItemId="134" Drop="Secondary" />
+         <Item ItemId="135" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="7" Name="Zombie" FriendlyName="Zombie" Level="2" Type="18" Size="Small" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="6" BaseExperienceThrow="16" BaseDamageThrow="4" BaseDamageRange="4" Dexterity="40" Vitality="30" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:05" ActionTime="00:00:01.5000000" MaximumGold="400" Sprite="zom.spr">
+      <Loot>
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="20" Drop="Primary" />
+         <Item ItemId="13" Drop="Primary" />
+         <Item ItemId="61" Drop="Primary" />
+         <Item ItemId="168" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="58" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="262" Drop="Primary" />
+         <Item ItemId="275" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="567" Drop="Primary" />
+         <Item ItemId="581" Drop="Primary" />
+         <Item ItemId="582" Drop="Primary" />
+         <Item ItemId="343" Drop="Secondary" />
+         <Item ItemId="364" Drop="Secondary" />
+         <Item ItemId="362" Drop="Secondary" />
+         <Item ItemId="363" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="8" Name="Scorpion" FriendlyName="Scorpion" Level="2" Type="17" Size="Small" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="4" BaseExperienceThrow="14" BaseDamageThrow="5" BaseDamageRange="3" Dexterity="35" Vitality="18" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:05" ActionTime="00:00:01.2000000" MaximumGold="350" Sprite="scp.spr">
+      <Loot>
+         <Item ItemId="10" Drop="Primary" />
+         <Item ItemId="20" Drop="Primary" />
+         <Item ItemId="168" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="61" Drop="Primary" />
+         <Item ItemId="13" Drop="Primary" />
+         <Item ItemId="58" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="262" Drop="Primary" />
+         <Item ItemId="275" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="450" Drop="Primary" />
+         <Item ItemId="454" Drop="Primary" />
+         <Item ItemId="565" Drop="Primary" />
+         <Item ItemId="189" Drop="Secondary" />
+         <Item ItemId="358" Drop="Secondary" />
+         <Item ItemId="357" Drop="Secondary" />
+         <Item ItemId="191" Drop="Secondary" />
+         <Item ItemId="188" Drop="Secondary" />
+         <Item ItemId="192" Drop="Secondary" />
+         <Item ItemId="190" Drop="Secondary" />
+         <Item ItemId="142" Drop="Secondary" />
+         <Item ItemId="143" Drop="Secondary" />
+         <Item ItemId="144" Drop="Secondary" />
+         <Item ItemId="145" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="9" Name="Skeleton" FriendlyName="Skeleton" Level="2" Type="11" Size="Small" MobDifficulty="Normal" Side="Wild" AttackRange="2" SearchRange="5" BaseExperienceThrow="20" BaseDamageThrow="5" BaseDamageRange="4" Dexterity="40" Vitality="24" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:05" ActionTime="00:00:00.8000000" MaximumGold="500" Sprite="ske.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="10" Drop="Primary" />
+         <Item ItemId="13" Drop="Primary" />
+         <Item ItemId="58" Drop="Primary" />
+         <Item ItemId="61" Drop="Primary" />
+         <Item ItemId="20" Drop="Primary" />
+         <Item ItemId="168" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="262" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="275" Drop="Primary" />
+         <Item ItemId="337" Drop="Primary" />
+         <Item ItemId="339" Drop="Primary" />
+         <Item ItemId="566" Drop="Primary" />
+         <Item ItemId="192" Drop="Secondary" />
+         <Item ItemId="190" Drop="Secondary" />
+         <Item ItemId="146" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="10" Name="Orc-Mage" FriendlyName="Orc Mage" Level="3" Type="14" Size="Small" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="6" BaseExperienceThrow="28" BaseDamageThrow="4" BaseDamageRange="3" Dexterity="35" Vitality="36" Magic="50" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:05" ActionTime="00:00:01.5000000" MaximumGold="700" Spells="Fire-Ball,Energy-Bolt" Sprite="orc.spr">
+      <Loot>
+         <Item ItemId="10" Drop="Primary" />
+         <Item ItemId="13" Drop="Primary" />
+         <Item ItemId="58" Drop="Primary" />
+         <Item ItemId="61" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="20" Drop="Primary" />
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+	 <Item ItemId="168" Drop="Primary" />
+         <Item ItemId="449" Drop="Primary" />
+         <Item ItemId="453" Drop="Primary" />
+         <Item ItemId="564" Drop="Primary" />
+         <Item ItemId="191" Drop="Secondary" />
+         <Item ItemId="188" Drop="Secondary" />
+         <Item ItemId="189" Drop="Secondary" />
+         <Item ItemId="192" Drop="Secondary" />
+         <Item ItemId="190" Drop="Secondary" />
+         <Item ItemId="357" Drop="Secondary" />
+         <Item ItemId="358" Drop="Secondary" />
+         <Item ItemId="361" Drop="Secondary" />
+         <Item ItemId="132" Drop="Secondary" />
+         <Item ItemId="134" Drop="Secondary" />
+         <Item ItemId="135" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="11" Name="Clay-Golem" FriendlyName="Clay Golem" Level="3" Type="23" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="5" BaseExperienceThrow="50" BaseDamageThrow="7" BaseDamageRange="4" Dexterity="50" Vitality="90" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:01.2000000" MaximumGold="1250" Sprite="cla.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="20" Drop="Primary" />
+         <Item ItemId="168" Drop="Primary" />
+         <Item ItemId="15" Drop="Primary" />
+         <Item ItemId="64" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="267" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="281" Drop="Primary" />
+         <Item ItemId="334" Drop="Primary" />
+         <Item ItemId="335" Drop="Primary" />
+         <Item ItemId="590" Drop="Primary" />
+         <Item ItemId="591" Drop="Primary" />
+         <Item ItemId="349" Drop="Secondary" />
+         <Item ItemId="508" Drop="Secondary" />
+         <Item ItemId="350" Drop="Secondary" />
+         <Item ItemId="351" Drop="Secondary" />
+         <Item ItemId="506" Drop="Secondary" />
+         <Item ItemId="131" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="12" Name="Stone-Golem" FriendlyName="Stone Golem" Level="3" Type="12" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="5" BaseExperienceThrow="50" BaseDamageThrow="7" BaseDamageRange="4" Dexterity="55" Vitality="75" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:01.2000000" MaximumGold="1250" Sprite="gol.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="20" Drop="Primary" />
+         <Item ItemId="168" Drop="Primary" />
+         <Item ItemId="15" Drop="Primary" />
+         <Item ItemId="64" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="267" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="281" Drop="Primary" />
+         <Item ItemId="349" Drop="Secondary" />
+         <Item ItemId="508" Drop="Secondary" />
+         <Item ItemId="350" Drop="Secondary" />
+         <Item ItemId="351" Drop="Secondary" />
+	 <Item ItemId="370" Drop="Secondary" />
+         <Item ItemId="506" Drop="Secondary" />
+         <Item ItemId="148" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="13" Name="Hellbound" FriendlyName="Hellhound" Level="4" Type="27" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="7" BaseExperienceThrow="70" BaseDamageThrow="7" BaseDamageRange="5" Dexterity="45" Vitality="105" Magic="83" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.9000000" MaximumGold="1750" Spells="Lightning,Fire-Strike,Lightning-Arrow,Fire-Ball,Energy-Bolt" Sprite="helb.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="167" Drop="Primary" />
+         <Item ItemId="67" Drop="Primary" />
+         <Item ItemId="61" Drop="Primary" />
+         <Item ItemId="64" Drop="Primary" />
+         <Item ItemId="55" Drop="Primary" />
+         <Item ItemId="22" Drop="Primary" />
+         <Item ItemId="25" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="10" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="568" Drop="Primary" />
+         <Item ItemId="505" Drop="Secondary" />
+         <Item ItemId="182" Drop="Secondary" />
+         <Item ItemId="183" Drop="Secondary" />
+         <Item ItemId="129" Drop="Secondary" />
+         <Item ItemId="128" Drop="Secondary" />
+         <Item ItemId="127" Drop="Secondary" />
+         <Item ItemId="126" Drop="Secondary" />
+         <Item ItemId="125" Drop="Secondary" />
+         <Item ItemId="130" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="14" Name="Giant-Frog" FriendlyName="Giant Frog" Level="4" Type="57" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="2" SearchRange="7" BaseExperienceThrow="75" BaseDamageThrow="7" BaseDamageRange="5" Dexterity="45" Vitality="105" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.9000000" MaximumGold="1875" Sprite="giantfrog.spr">
+      <Loot>
+         <Item ItemId="64" Drop="Primary" />
+         <Item ItemId="15" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="28" Drop="Secondary" />
+         <Item ItemId="55" Drop="Secondary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="188" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="15" Name="Cyclops" FriendlyName="Cyclops" Level="4" Type="13" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="3" SearchRange="7" BaseExperienceThrow="110" BaseDamageThrow="8" BaseDamageRange="6" Dexterity="50" Vitality="180" Magic="150" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:01.2000000" MaximumGold="2750"  Spells="Lightning,Fire-Strike,Lightning-Arrow,Fire-Ball,Energy-Bolt" Sprite="cyc.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="167" Drop="Primary" />
+         <Item ItemId="67" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="505" Drop="Secondary" />
+         <Item ItemId="363" Drop="Secondary" />
+         <Item ItemId="182" Drop="Secondary" />
+         <Item ItemId="180" Drop="Secondary" />
+         <Item ItemId="183" Drop="Secondary" />
+         <Item ItemId="360" Drop="Secondary" />
+         <Item ItemId="120" Drop="Secondary" />
+         <Item ItemId="121" Drop="Secondary" />
+         <Item ItemId="122" Drop="Secondary" />
+         <Item ItemId="123" Drop="Secondary" />
+         <Item ItemId="124" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="16" Name="Troll" FriendlyName="Troll" Level="5" Type="28" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="7" BaseExperienceThrow="100" BaseDamageThrow="8" BaseDamageRange="5" Dexterity="42" Vitality="165" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.7000000" MaximumGold="2500" Sprite="troll.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="167" Drop="Primary" />
+         <Item ItemId="67" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="10" Drop="Primary" />
+         <Item ItemId="25" Drop="Primary" />
+         <Item ItemId="22" Drop="Primary" />
+         <Item ItemId="55" Drop="Primary" />
+         <Item ItemId="64" Drop="Primary" />
+         <Item ItemId="61" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="568" Drop="Primary" />
+         <Item ItemId="189" Drop="Secondary" />
+         <Item ItemId="192" Drop="Secondary" />
+         <Item ItemId="191" Drop="Secondary" />
+         <Item ItemId="188" Drop="Secondary" />
+         <Item ItemId="149" Drop="Secondary" />
+         <Item ItemId="150" Drop="Secondary" />
+         <Item ItemId="151" Drop="Secondary" />
+         <Item ItemId="152" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="17" Name="Beholder" FriendlyName="Beholder" Level="5" Type="53" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="4" SearchRange="7" BaseExperienceThrow="140" BaseDamageThrow="8" BaseDamageRange="8" Dexterity="50" Vitality="300" Magic="0" PhysicalAbsorption="30" MagicAbsorption="30" MaximumDeadTime="00:00:10" ActionTime="00:00:00.8000000" MaximumGold="3500" Sprite="beholder.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="67" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="505" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="18" Name="Cannibal-Plant" FriendlyName="Cannibal Plant" Level="5" Type="60" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="2" SearchRange="7" BaseExperienceThrow="150" BaseDamageThrow="8" BaseDamageRange="8" Dexterity="40" Vitality="315" Magic="183" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.8000000" MaximumGold="3750" Spells="Lightning,Fire-Strike,Lightning-Arrow,Fire-Ball,Energy-Bolt" Sprite="canplant.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="67" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="10" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="188" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="19" Name="Orge" FriendlyName="Orge" Level="6" Type="29" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="3" SearchRange="7" BaseExperienceThrow="200" BaseDamageThrow="8" BaseDamageRange="7" Dexterity="75" Vitality="345" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.7000000" MaximumGold="5000" Sprite="orge.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="447" Drop="Primary" />
+         <Item ItemId="451" Drop="Primary" />
+         <Item ItemId="448" Drop="Primary" />
+         <Item ItemId="452" Drop="Primary" />
+         <Item ItemId="167" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="43" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="31" Drop="Secondary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="347" Drop="Primary" />
+         <Item ItemId="183" Drop="Secondary" />
+         <Item ItemId="182" Drop="Secondary" />
+         <Item ItemId="180" Drop="Secondary" />
+         <Item ItemId="181" Drop="Secondary" />
+         <Item ItemId="361" Drop="Secondary" />
+         <Item ItemId="355" Drop="Secondary" />
+         <Item ItemId="136" Drop="Secondary" />
+         <Item ItemId="137" Drop="Secondary" />
+         <Item ItemId="138" Drop="Secondary" />
+         <Item ItemId="139" Drop="Secondary" />
+         <Item ItemId="140" Drop="Secondary" />
+         <Item ItemId="141" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="20" Name="Mountain-Giant" FriendlyName="Mountain Giant" Level="6" Type="58" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="2" SearchRange="7" BaseExperienceThrow="200" BaseDamageThrow="8" BaseDamageRange="7" Dexterity="125" Vitality="300" Magic="0" PhysicalAbsorption="20" MagicAbsorption="20" MaximumDeadTime="00:00:10" ActionTime="00:00:00.7000000" MaximumGold="5000" Sprite="mtgiant.spr">
+      <Loot>
+         <Item ItemId="228" Drop="Primary" />
+         <Item ItemId="20" Drop="Primary" />
+         <Item ItemId="25" Drop="Primary" />
+         <Item ItemId="22" Drop="Primary" />
+         <Item ItemId="15" Drop="Primary" />
+         <Item ItemId="455" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="336" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="337" Drop="Primary" />
+         <Item ItemId="339" Drop="Primary" />
+         <Item ItemId="452" Drop="Primary" />
+         <Item ItemId="448" Drop="Primary" />
+         <Item ItemId="451" Drop="Primary" />
+         <Item ItemId="447" Drop="Primary" />
+         <Item ItemId="512" Drop="Secondary" />
+         <Item ItemId="349" Drop="Secondary" />
+         <Item ItemId="351" Drop="Secondary" />
+         <Item ItemId="350" Drop="Secondary" />
+         <Item ItemId="192" Drop="Secondary" />
+         <Item ItemId="457" Drop="Secondary" />
+         <Item ItemId="367" Drop="Secondary" />
+         <Item ItemId="508" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="21" Name="Liche" FriendlyName="Liche" Level="7" Type="30" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="5" SearchRange="7" BaseExperienceThrow="210" BaseDamageThrow="8" BaseDamageRange="6" Dexterity="150" Vitality="390" Magic="333" PhysicalAbsorption="10" MagicAbsorption="10" MaximumDeadTime="00:00:10" ActionTime="00:00:00.7000000" MaximumGold="5250" Spells="Lightning-Bolt,Lightning,Fire-Strike,Lightning-Arrow,Fire-Ball,Energy-Bolt" Sprite="liche.spr">
+      <Loot>
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="67" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="166" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="336" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="275" Drop="Primary" />
+         <Item ItemId="262" Drop="Primary" />
+         <Item ItemId="337" Drop="Primary" />
+         <Item ItemId="339" Drop="Primary" />
+         <Item ItemId="83" Drop="Primary" />
+         <Item ItemId="178" Drop="Secondary" />
+         <Item ItemId="359" Drop="Secondary" />
+         <Item ItemId="435" Drop="Secondary" />
+         <Item ItemId="371" Drop="Secondary" />
+         <Item ItemId="220" Drop="Secondary" />
+         <Item ItemId="221" Drop="Secondary" />
+         <Item ItemId="219" Drop="Secondary" />
+         <Item ItemId="507" Drop="Secondary" />
+         <Item ItemId="516" Drop="Secondary" />
+         <Item ItemId="515" Drop="Secondary" />
+         <Item ItemId="169" Drop="Secondary" />
+         <Item ItemId="357" Drop="Secondary" />
+         <Item ItemId="358" Drop="Secondary" />
+         <Item ItemId="344" Drop="Secondary" />
+         <Item ItemId="366" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="22" Name="Stalker" FriendlyName="Stalker" Level="6" Type="48" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="4" SearchRange="7" BaseExperienceThrow="250" BaseDamageThrow="8" BaseDamageRange="9" Dexterity="100" Vitality="390" Magic="0" PhysicalAbsorption="20" MagicAbsorption="20" MaximumDeadTime="00:00:10" ActionTime="00:00:00.6000000" MaximumGold="6250" Sprite="stalker.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="447" Drop="Primary" />
+         <Item ItemId="451" Drop="Primary" />
+         <Item ItemId="448" Drop="Primary" />
+         <Item ItemId="452" Drop="Primary" />
+         <Item ItemId="167" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="322" Drop="Primary" />
+         <Item ItemId="43" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="347" Drop="Primary" />
+         <Item ItemId="70" Drop="Secondary" />
+         <Item ItemId="177" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="23" Name="WereWolf" FriendlyName="Werewolf" Level="6" Type="33" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="7" BaseExperienceThrow="250" BaseDamageThrow="8" BaseDamageRange="8" Dexterity="90" Vitality="420" Magic="0" PhysicalAbsorption="20" MagicAbsorption="20" MaximumDeadTime="00:00:10" ActionTime="00:00:00.7000000" MaximumGold="6250" Sprite="werewolf.spr" >
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="447" Drop="Primary" />
+         <Item ItemId="451" Drop="Primary" />
+         <Item ItemId="448" Drop="Primary" />
+         <Item ItemId="452" Drop="Primary" />
+         <Item ItemId="167" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="43" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="347" Drop="Primary" />
+         <Item ItemId="70" Drop="Secondary" />
+         <Item ItemId="177" Drop="Secondary" />
+         <Item ItemId="351" Drop="Secondary" />
+         <Item ItemId="350" Drop="Secondary" />
+         <Item ItemId="349" Drop="Secondary" />
+         <Item ItemId="315" Drop="Secondary" />
+         <Item ItemId="316" Drop="Secondary" />
+         <Item ItemId="317" Drop="Secondary" />
+         <Item ItemId="318" Drop="Secondary" />
+         <Item ItemId="319" Drop="Secondary" />
+         <Item ItemId="320" Drop="Secondary" />
+         <Item ItemId="321" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="24" Name="Dark-Elf" FriendlyName="Dark Elf" Level="6" Type="54" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="8" SearchRange="8" BaseExperienceThrow="280" BaseDamageThrow="8" BaseDamageRange="4" Dexterity="100" Vitality="420" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:00:10" ActionTime="00:00:00.7000000" MaximumGold="7000" Sprite="darkelf.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="81" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="447" Drop="Primary" />
+         <Item ItemId="451" Drop="Primary" />
+         <Item ItemId="448" Drop="Primary" />
+         <Item ItemId="452" Drop="Primary" />
+         <Item ItemId="167" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="43" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="31" Drop="Secondary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="347" Drop="Primary" />
+         <Item ItemId="348" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="25" Name="Ettin" FriendlyName="Ettin" Level="7" Type="59" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="3" SearchRange="7" BaseExperienceThrow="350" BaseDamageThrow="8" BaseDamageRange="9" Dexterity="175" Vitality="540" Magic="0" PhysicalAbsorption="65" MagicAbsorption="65" MaximumDeadTime="00:00:10" ActionTime="00:00:00.7000000" MaximumGold="8750" Sprite="ettin.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="81" Drop="Primary" />
+         <Item ItemId="83" Drop="Primary" />
+         <Item ItemId="456" Drop="Primary" />
+         <Item ItemId="228" Drop="Primary" />
+         <Item ItemId="455" Drop="Primary" />
+         <Item ItemId="43" Drop="Secondary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="447" Drop="Primary" />
+         <Item ItemId="451" Drop="Primary" />
+         <Item ItemId="448" Drop="Primary" />
+         <Item ItemId="452" Drop="Primary" />
+         <Item ItemId="339" Drop="Primary" />
+         <Item ItemId="337" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="275" Drop="Primary" />
+         <Item ItemId="262" Drop="Primary" />
+         <Item ItemId="267" Drop="Primary" />
+         <Item ItemId="281" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="192" Drop="Secondary" />
+         <Item ItemId="457" Drop="Secondary" />
+         <Item ItemId="512" Drop="Secondary" />
+         <Item ItemId="511" Drop="Secondary" />
+         <Item ItemId="506" Drop="Secondary" />
+         <Item ItemId="221" Drop="Secondary" />
+         <Item ItemId="220" Drop="Secondary" />
+         <Item ItemId="508" Drop="Secondary" />
+         <Item ItemId="510" Drop="Secondary" />
+         <Item ItemId="284" Drop="Secondary" />
+         <Item ItemId="283" Drop="Secondary" />
+         <Item ItemId="285" Drop="Secondary" />
+         <Item ItemId="368" Drop="Secondary" />
+         <Item ItemId="367" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="26" Name="Demon" FriendlyName="Demon" Level="8" Type="31" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="4" SearchRange="7" BaseExperienceThrow="660" BaseDamageThrow="10" BaseDamageRange="10" Dexterity="225" Vitality="1020" Magic="666" PhysicalAbsorption="75" MagicAbsorption="75" MaximumDeadTime="00:01:00" ActionTime="00:00:00.7000000" MaximumGold="16500" Spells="Bloody-Shock-Wave,Mass-Fire-Strike,Energy-Strike,Lightning-Bolt,Lightning" Sprite="demon.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="81" Drop="Primary" />
+         <Item ItemId="83" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="337" Drop="Primary" />
+         <Item ItemId="339" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="166" Drop="Primary" />
+         <Item ItemId="52" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="43" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="345" Drop="Primary" />
+         <Item ItemId="322" Drop="Primary" />
+         <Item ItemId="228" Drop="Primary" />
+         <Item ItemId="285" Drop="Secondary" />
+         <Item ItemId="284" Drop="Secondary" />
+         <Item ItemId="283" Drop="Secondary" />
+         <Item ItemId="511" Drop="Secondary" />
+         <Item ItemId="512" Drop="Secondary" />
+         <Item ItemId="221" Drop="Secondary" />
+         <Item ItemId="220" Drop="Secondary" />
+         <Item ItemId="510" Drop="Secondary" />
+         <Item ItemId="368" Drop="Secondary" />
+         <Item ItemId="515" Drop="Secondary" />
+         <Item ItemId="516" Drop="Secondary" />
+         <Item ItemId="356" Drop="Secondary" />
+         <Item ItemId="346" Drop="Secondary" />
+         <Item ItemId="307" Drop="Secondary" />
+         <Item ItemId="308" Drop="Secondary" />
+         <Item ItemId="309" Drop="Secondary" />
+         <Item ItemId="310" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="27" Name="Unicorn" FriendlyName="Unicorn" Level="8" Type="32" Size="Large" MobDifficulty="Normal" Side="Neutral" AttackRange="4" SearchRange="7" BaseExperienceThrow="660" BaseDamageThrow="10" BaseDamageRange="10" Dexterity="225" Vitality="1020" Magic="666" PhysicalAbsorption="75" MagicAbsorption="75" MaximumDeadTime="00:01:00" ActionTime="00:00:00.7000000" MaximumGold="16500" Spells="Paralyze,Energy-Strike,Lightning-Bolt,Lightning" Sprite="unicorn.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="81" Drop="Primary" />
+         <Item ItemId="83" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="166" Drop="Primary" />
+         <Item ItemId="52" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="345" Drop="Primary" />
+         <Item ItemId="322" Drop="Primary" />
+         <Item ItemId="228" Drop="Primary" />
+         <Item ItemId="514" Drop="Secondary" />
+         <Item ItemId="513" Drop="Secondary" />
+         <Item ItemId="502" Drop="Secondary" />
+         <Item ItemId="503" Drop="Secondary" />
+         <Item ItemId="504" Drop="Secondary" />
+         <Item ItemId="52" Drop="Secondary" />
+         <Item ItemId="509" Drop="Secondary" />
+         <Item ItemId="501" Drop="Secondary" />
+         <Item ItemId="367" Drop="Secondary" />
+         <Item ItemId="349" Drop="Secondary" />
+         <Item ItemId="311" Drop="Secondary" />
+         <Item ItemId="312" Drop="Secondary" />
+         <Item ItemId="313" Drop="Secondary" />
+         <Item ItemId="314" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="28" Name="Gagoyle" FriendlyName="Gagoyle" Level="8" Type="52" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="5" SearchRange="7" BaseExperienceThrow="800" BaseDamageThrow="13" BaseDamageRange="10" Dexterity="225" Vitality="1200" Magic="666" PhysicalAbsorption="80" MagicAbsorption="80" MaximumDeadTime="00:01:00" ActionTime="00:00:00.7000000" MaximumGold="20000" Spells="Bloody-Shock-Wave,Mass-Fire-Strike,Energy-Strike,Lightning-Bolt,Lightning" Sprite="gagoyle.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="336" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="166" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="52" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="345" Drop="Primary" />
+         <Item ItemId="322" Drop="Primary" />
+         <Item ItemId="228" Drop="Primary" />
+         <Item ItemId="18" Drop="Secondary" />
+         <Item ItemId="284" Drop="Secondary" />
+         <Item ItemId="285" Drop="Secondary" />
+         <Item ItemId="283" Drop="Secondary" />
+         <Item ItemId="177" Drop="Secondary" />
+         <Item ItemId="342" Drop="Secondary" />
+         <Item ItemId="340" Drop="Secondary" />
+         <Item ItemId="341" Drop="Secondary" />
+         <Item ItemId="356" Drop="Secondary" />
+         <Item ItemId="353" Drop="Secondary" />
+         <Item ItemId="510" Drop="Secondary" />
+         <Item ItemId="361" Drop="Secondary" />
+         <Item ItemId="368" Drop="Secondary" />
+         <Item ItemId="221" Drop="Secondary" />
+         <Item ItemId="220" Drop="Secondary" />
+         <Item ItemId="436" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="29" Name="Hellclaw" FriendlyName="Hellclaw" Level="9" Type="49" Size="Large" MobDifficulty="Boss" Side="Wild" AttackRange="5" SearchRange="7" BaseExperienceThrow="1400" BaseDamageThrow="15" BaseDamageRange="14" Dexterity="225" Vitality="3000" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:0:10" ActionTime="00:00:00.6000000" MaximumGold="35000" Sprite="hellclaw.spr">
+      <Loot>
+         <Item ItemId="166" Drop="Primary" />
+         <Item ItemId="345" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="322" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="192" Drop="Secondary" />
+         <Item ItemId="190" Drop="Secondary" />
+         <Item ItemId="183" Drop="Secondary" />
+         <Item ItemId="182" Drop="Secondary" />
+         <Item ItemId="180" Drop="Secondary" />
+         <Item ItemId="357" Drop="Secondary" />
+         <Item ItemId="358" Drop="Secondary" />
+         <Item ItemId="359" Drop="Secondary" />
+         <Item ItemId="349" Drop="Secondary" />
+         <Item ItemId="169" Drop="Secondary" />
+         <Item ItemId="366" Drop="Secondary" />
+         <Item ItemId="367" Drop="Secondary" />
+         <Item ItemId="362" Drop="Secondary" />
+         <Item ItemId="363" Drop="Secondary" />
+         <Item ItemId="344" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="30" Name="Tigerworm" FriendlyName="Tigerworm" Level="9" Type="50" Size="Large" MobDifficulty="Boss" Side="Wild" AttackRange="6" SearchRange="7" BaseExperienceThrow="3000" BaseDamageThrow="18" BaseDamageRange="17" Dexterity="275" Vitality="6000" Magic="5333" PhysicalAbsorption="70" MagicAbsorption="70" MaximumDeadTime="00:0:10" ActionTime="00:00:00.6000000" MaximumGold="75000" Spells="Lightning-Strike" Sprite="tigerworm.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="345" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="336" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="18" Drop="Secondary" />
+         <Item ItemId="285" Drop="Secondary" />
+         <Item ItemId="284" Drop="Secondary" />
+         <Item ItemId="283" Drop="Secondary" />
+         <Item ItemId="177" Drop="Secondary" />
+         <Item ItemId="342" Drop="Secondary" />
+         <Item ItemId="340" Drop="Secondary" />
+         <Item ItemId="341" Drop="Secondary" />
+         <Item ItemId="355" Drop="Secondary" />
+         <Item ItemId="356" Drop="Secondary" />
+         <Item ItemId="353" Drop="Secondary" />
+         <Item ItemId="354" Drop="Secondary" />
+         <Item ItemId="344" Drop="Secondary" />
+         <Item ItemId="182" Drop="Secondary" />
+         <Item ItemId="180" Drop="Secondary" />
+         <Item ItemId="181" Drop="Secondary" />
+         <Item ItemId="360" Drop="Secondary" />
+         <Item ItemId="367" Drop="Secondary" />
+         <Item ItemId="365" Drop="Secondary" />
+         <Item ItemId="366" Drop="Secondary" />
+         <Item ItemId="361" Drop="Secondary" />
+         <Item ItemId="368" Drop="Secondary" />
+         <Item ItemId="178" Drop="Secondary" />
+         <Item ItemId="435" Drop="Secondary" />
+         <Item ItemId="359" Drop="Secondary" />
+         <Item ItemId="358" Drop="Secondary" />
+         <Item ItemId="357" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="31" Name="Rudolph" FriendlyName="Rudolph" Level="3" Type="61" Size="Small" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="5" BaseExperienceThrow="70" BaseDamageThrow="7" BaseDamageRange="5" Dexterity="50" Vitality="120" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:01" MaximumGold="1750" Spells="Lightning,Fire-Strike,Lightning-Arrow,Fire-Ball,Energy-Bolt" Sprite="rudolph.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="167" Drop="Primary" />
+         <Item ItemId="67" Drop="Primary" />
+         <Item ItemId="22" Drop="Primary" />
+         <Item ItemId="25" Drop="Primary" />
+         <Item ItemId="15" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="192" Drop="Secondary" />
+         <Item ItemId="191" Drop="Secondary" />
+         <Item ItemId="183" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="32" Name="DireBoar" FriendlyName="Dire Boar" Level="5" Type="62" Size="Small" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="7" BaseExperienceThrow="150" BaseDamageThrow="8" BaseDamageRange="8" Dexterity="40" Vitality="390" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.8000000" MaximumGold="3750" Sprite="direboar.spr">
+      <Loot>
+         <Item ItemId="67" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="169" Drop="Secondary" />
+         <Item ItemId="360" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="33" Name="Frost" FriendlyName="Frost" Level="6" Type="63" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="3" SearchRange="7" BaseExperienceThrow="220" BaseDamageThrow="8" BaseDamageRange="6" Dexterity="150" Vitality="390" Magic="233" PhysicalAbsorption="10" MagicAbsorption="10" MaximumDeadTime="00:00:10" ActionTime="00:00:00.7000000" MaximumGold="5500" Spells="Ice-Strike" Sprite="frost.spr">
+      <Loot>
+         <Item ItemId="166" Drop="Primary" />
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="81" Drop="Primary" />
+         <Item ItemId="83" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="43" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="347" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="337" Drop="Primary" />
+         <Item ItemId="339" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="336" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="275" Drop="Primary" />
+         <Item ItemId="262" Drop="Primary" />
+         <Item ItemId="497" Drop="Secondary" />
+         <Item ItemId="178" Drop="Secondary" />
+         <Item ItemId="435" Drop="Secondary" />
+         <Item ItemId="359" Drop="Secondary" />
+         <Item ItemId="357" Drop="Secondary" />
+         <Item ItemId="358" Drop="Secondary" />
+         <Item ItemId="169" Drop="Secondary" />
+         <Item ItemId="219" Drop="Secondary" />
+         <Item ItemId="344" Drop="Secondary" />
+         <Item ItemId="365" Drop="Secondary" />
+         <Item ItemId="366" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="34" Name="Ice-Golem" FriendlyName="Ice Golem" Level="5" Type="65" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="1" SearchRange="7" BaseExperienceThrow="110" BaseDamageThrow="8" BaseDamageRange="6" Dexterity="50" Vitality="180" Magic="0" PhysicalAbsorption="30" MagicAbsorption="30" MaximumDeadTime="00:00:10" ActionTime="00:00:01.2000000" MaximumGold="2750" Sprite="icegolem.spr">
+      <Loot>
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="43" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="167" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="447" Drop="Primary" />
+         <Item ItemId="451" Drop="Primary" />
+         <Item ItemId="448" Drop="Primary" />
+         <Item ItemId="452" Drop="Primary" />
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="81" Drop="Primary" />
+         <Item ItemId="435" Drop="Secondary" />
+         <Item ItemId="219" Drop="Secondary" />
+         <Item ItemId="359" Drop="Secondary" />
+         <Item ItemId="169" Drop="Secondary" />
+         <Item ItemId="365" Drop="Secondary" />
+         <Item ItemId="366" Drop="Secondary" />
+         <Item ItemId="178" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="35" Name="Wyvern" FriendlyName="Wyvern" Level="10" Type="66" Size="Large" MobDifficulty="LargeBoss" DropCount="9" Side="Wild" AttackRange="7" SearchRange="8" BaseExperienceThrow="4000" BaseDamageThrow="20" BaseDamageRange="18" Dexterity="500" Vitality="7500" Magic="5333" PhysicalAbsorption="80" MagicAbsorption="80" MaximumDeadTime="00:00:15" ActionTime="00:00:00.6000000" MaximumGold="100000" Spells="Blizzard,Mass-Chill-Wind" Sprite="wyvern.spr">
+      <Loot>
+         <Item ItemId="182" Drop="Secondary" />
+         <Item ItemId="181" Drop="Secondary" />
+         <Item ItemId="183" Drop="Secondary" />
+         <Item ItemId="70" Drop="Secondary" />
+         <Item ItemId="366" Drop="Secondary" />
+         <Item ItemId="285" Drop="Secondary" />
+         <Item ItemId="512" Drop="Secondary" />
+         <Item ItemId="169" Drop="Secondary" />
+         <Item ItemId="177" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="36" Name="Barlog" FriendlyName="Barlog" Level="8" Type="70" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="3" SearchRange="5" BaseExperienceThrow="700" BaseDamageThrow="9" BaseDamageRange="10" Dexterity="200" Vitality="1500" Magic="666" PhysicalAbsorption="10" MagicAbsorption="10" MaximumDeadTime="00:00:10" ActionTime="00:00:00.5000000" MaximumGold="17500" Spells="Bloody-Shock-Wave,Mass-Fire-Strike,Energy-Strike,Lightning-Bolt,Lightning" Sprite="barlog.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="336" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="166" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="345" Drop="Primary" />
+         <Item ItemId="322" Drop="Primary" />
+         <Item ItemId="228" Drop="Primary" />
+         <Item ItemId="506" Drop="Secondary" />
+         <Item ItemId="500" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="37" Name="Centaurus" FriendlyName="Centaurus" Level="7" Type="71" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="3" SearchRange="5" BaseExperienceThrow="1000" BaseDamageThrow="12" BaseDamageRange="11" Dexterity="225" Vitality="1050" Magic="666" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.5000000" MaximumGold="25000"  Spells="Paralyze,Energy-Strike,Lightning-Bolt,Lightning" Sprite="centaurus.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="336" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="166" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="25" Drop="Primary" />
+         <Item ItemId="22" Drop="Primary" />
+         <Item ItemId="511" Drop="Secondary" />
+         <Item ItemId="512" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="38" Name="Claw-Turtle" FriendlyName="Claw Turtle" Level="7" Type="72" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="2" SearchRange="5" BaseExperienceThrow="350" BaseDamageThrow="8" BaseDamageRange="9" Dexterity="100" Vitality="360" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.5000000" MaximumGold="8750" Sprite="clawturtle.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="167" Drop="Primary" />
+         <Item ItemId="67" Drop="Primary" />
+         <Item ItemId="61" Drop="Primary" />
+         <Item ItemId="64" Drop="Primary" />
+         <Item ItemId="55" Drop="Primary" />
+         <Item ItemId="22" Drop="Primary" />
+         <Item ItemId="25" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="10" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+      </Loot>
+   </Npc>
+   <Npc Id="39" Name="Fire-Wyvern" FriendlyName="Fire Wyvern" Level="10" Type="73" Size="Large" MobDifficulty="LargeBoss" DropCount="9" Side="Wild" AttackRange="7" SearchRange="8" BaseExperienceThrow="4500" BaseDamageThrow="20" BaseDamageRange="18" Dexterity="500" Vitality="9000" Magic="5333" PhysicalAbsorption="80" MagicAbsorption="80" MaximumDeadTime="00:00:15" ActionTime="00:00:00.6000000" MaximumGold="112500" Sprite="firewyvern.spr">
+      <Loot>
+         <Item ItemId="182" Drop="Secondary" />
+         <Item ItemId="181" Drop="Secondary" />
+         <Item ItemId="510" Drop="Secondary" />
+         <Item ItemId="500" Drop="Secondary" />
+         <Item ItemId="18" Drop="Secondary" />
+         <Item ItemId="359" Drop="Secondary" />
+         <Item ItemId="342" Drop="Secondary" />
+         <Item ItemId="340" Drop="Secondary" />
+         <Item ItemId="341" Drop="Secondary" />
+         <Item ItemId="70" Drop="Secondary" />
+         <Item ItemId="177" Drop="Secondary" />
+         <Item ItemId="169" Drop="Secondary" />
+         <Item ItemId="435" Drop="Secondary" />
+         <Item ItemId="361" Drop="Secondary" />
+         <Item ItemId="368" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="40" Name="Giant-Crayfish" FriendlyName="Giant Crayfish" Level="6" Type="74" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="2" SearchRange="5" BaseExperienceThrow="240" BaseDamageThrow="7" BaseDamageRange="7" Dexterity="75" Vitality="210" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.4000000" MaximumGold="6000" Sprite="giantcrayfish.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="167" Drop="Primary" />
+         <Item ItemId="67" Drop="Primary" />
+         <Item ItemId="61" Drop="Primary" />
+         <Item ItemId="64" Drop="Primary" />
+         <Item ItemId="55" Drop="Primary" />
+         <Item ItemId="22" Drop="Primary" />
+         <Item ItemId="25" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="10" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+      </Loot>
+   </Npc>
+   <Npc Id="41" Name="Giant-Lizard" FriendlyName="Giant Lizard" Level="6" Type="75" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="2" SearchRange="5" BaseExperienceThrow="750" BaseDamageThrow="10" BaseDamageRange="10" Dexterity="200" Vitality="1350" Magic="233" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.6000000" MaximumGold="18750"  Spells="Paralyze,Energy-Strike,Lightning-Bolt,Lightning" Sprite="giantlizard.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="336" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="166" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="345" Drop="Primary" />
+         <Item ItemId="322" Drop="Primary" />
+         <Item ItemId="228" Drop="Primary" />
+         <Item ItemId="511" Drop="Secondary" />
+         <Item ItemId="512" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="42" Name="Giant-Plant" FriendlyName="Giant Plant" Level="6" Type="76" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="2" SearchRange="5" BaseExperienceThrow="240" BaseDamageThrow="8" BaseDamageRange="6" Dexterity="60" Vitality="300" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.7000000" MaximumGold="6000" Sprite="giantplant.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="67" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="10" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="188" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="43" Name="MasterMage-Orc" FriendlyName="Master Mage Orc" Level="7" Type="77" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="3" SearchRange="5" BaseExperienceThrow="300" BaseDamageThrow="8" BaseDamageRange="7" Dexterity="150" Vitality="750" Magic="500" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.5000000" MaximumGold="7500" Spells="Bloody-Shock-Wave,Mass-Fire-Strike,Energy-Strike,Lightning-Bolt,Lightning" Sprite="mastermageorc.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="336" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="166" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="345" Drop="Primary" />
+         <Item ItemId="322" Drop="Primary" />
+         <Item ItemId="228" Drop="Primary" />
+         <Item ItemId="456" Drop="Primary" />
+         <Item ItemId="507" Drop="Secondary" />
+         <Item ItemId="505" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="44" Name="Minotaurs" FriendlyName="Minotaurs" Level="6" Type="78" Size="Large" MobDifficulty="Normal" Side="Wild" AttackRange="2" SearchRange="5" BaseExperienceThrow="1000" BaseDamageThrow="13" BaseDamageRange="11" Dexterity="250" Vitality="1020" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.5000000" MaximumGold="25000" Sprite="minotaurs.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="336" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="166" Drop="Primary" />
+      </Loot>
+   </Npc>
+   <Npc Id="45" Name="Nizie" FriendlyName="Nizie" Level="6" Type="79" Size="Medium" MobDifficulty="Normal" Side="Wild" AttackRange="3" SearchRange="5" BaseExperienceThrow="650" BaseDamageThrow="10" BaseDamageRange="10" Dexterity="150" Vitality="840" Magic="666" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.5000000" MaximumGold="16250" Spells="Ice-Strike" Sprite="nizie.spr">
+      <Loot>
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="80" Drop="Primary" />
+         <Item ItemId="79" Drop="Primary" />
+         <Item ItemId="259" Drop="Primary" />
+         <Item ItemId="270" Drop="Primary" />
+         <Item ItemId="336" Drop="Primary" />
+         <Item ItemId="338" Drop="Primary" />
+         <Item ItemId="280" Drop="Primary" />
+         <Item ItemId="266" Drop="Primary" />
+         <Item ItemId="273" Drop="Primary" />
+         <Item ItemId="260" Drop="Primary" />
+         <Item ItemId="263" Drop="Primary" />
+         <Item ItemId="276" Drop="Primary" />
+         <Item ItemId="274" Drop="Primary" />
+         <Item ItemId="261" Drop="Primary" />
+         <Item ItemId="166" Drop="Primary" />
+         <Item ItemId="51" Drop="Primary" />
+         <Item ItemId="47" Drop="Primary" />
+         <Item ItemId="31" Drop="Primary" />
+         <Item ItemId="28" Drop="Primary" />
+         <Item ItemId="497" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="46" Name="Tentocle" FriendlyName="Tentocle" Level="5" Type="80" Size="Small" MobDifficulty="Normal" Side="Wild" AttackRange="3" SearchRange="5" BaseExperienceThrow="200" BaseDamageThrow="7" BaseDamageRange="6" Dexterity="75" Vitality="240" Magic="166" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.4000000" MaximumGold="5000"  Spells="Lightning-Bolt,Lightning,Fire-Strike,Lightning-Arrow,Fire-Ball,Energy-Bolt" Sprite="tentocle.spr">
+      <Loot>
+         <Item ItemId="64" Drop="Primary" />
+         <Item ItemId="15" Drop="Primary" />
+         <Item ItemId="7" Drop="Primary" />
+         <Item ItemId="28" Drop="Secondary" />
+         <Item ItemId="55" Drop="Secondary" />
+         <Item ItemId="77" Drop="Primary" />
+         <Item ItemId="75" Drop="Primary" />
+         <Item ItemId="188" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="47" Name="Abaddon" FriendlyName="Abaddon" Level="11" Type="81" Size="Large" MobDifficulty="LargeBoss" DropCount="25" Side="Wild" AttackRange="7" SearchRange="8" BaseExperienceThrow="50000" BaseDamageThrow="20" BaseDamageRange="20" Dexterity="750" Vitality="45000" Magic="6666" PhysicalAbsorption="80" MagicAbsorption="80" MaximumDeadTime="00:00:15" ActionTime="00:00:00.5000000" MaximumGold="1250000" Spells="Earth-Shock-Wave,MeteorStrike" Sprite="yspro.spr">
+      <Loot>
+         <Item ItemId="457" Drop="Secondary" />
+         <Item ItemId="182" Drop="Secondary" />
+         <Item ItemId="70" Drop="Secondary" />
+         <Item ItemId="285" Drop="Secondary" />
+         <Item ItemId="284" Drop="Secondary" />
+         <Item ItemId="283" Drop="Secondary" />
+         <Item ItemId="177" Drop="Secondary" />
+         <Item ItemId="342" Drop="Secondary" />
+         <Item ItemId="340" Drop="Secondary" />
+         <Item ItemId="341" Drop="Secondary" />
+         <Item ItemId="361" Drop="Secondary" />
+         <Item ItemId="368" Drop="Secondary" />
+         <Item ItemId="181" Drop="Secondary" />
+         <Item ItemId="178" Drop="Secondary" />
+         <Item ItemId="183" Drop="Secondary" />
+         <Item ItemId="180" Drop="Secondary" />
+         <Item ItemId="349" Drop="Secondary" />
+         <Item ItemId="221" Drop="Secondary" />
+         <Item ItemId="220" Drop="Secondary" />
+         <Item ItemId="515" Drop="Secondary" />
+         <Item ItemId="516" Drop="Secondary" />
+         <Item ItemId="506" Drop="Secondary" />
+         <Item ItemId="190" Drop="Secondary" />
+         <Item ItemId="191" Drop="Secondary" />
+         <Item ItemId="189" Drop="Secondary" />
+         <Item ItemId="498" Drop="Secondary" />
+         <Item ItemId="500" Drop="Secondary" />
+      </Loot>
+   </Npc>
+   <Npc Id="48" Name="Crops" FriendlyName="Crops" Type="64" Size="Small" MobDifficulty="None" Side="Wild" AttackRange="1" SearchRange="7" BaseExperienceThrow="0" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="5" Vitality="6000" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:00:03" ActionTime="00:01:00" MaximumGold="0" IsStationary="True" Sprite="crop.spr" />
+   <Npc Id="49" Name="McGaffin" FriendlyName="McGaffin" Type="67" Size="Small" MobDifficulty="None" Side="Neutral" AttackRange="4" SearchRange="0" BaseExperienceThrow="1" BaseDamageThrow="1" BaseDamageRange="1" Dexterity="500" Vitality="9000" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:15" MaximumGold="25" Sprite="mcgaffin.spr" />
+   <Npc Id="50" Name="Perry" FriendlyName="Perry" Type="68" Size="Small" MobDifficulty="None" Side="Neutral" AttackRange="4" SearchRange="0" BaseExperienceThrow="1" BaseDamageThrow="1" BaseDamageRange="1" Dexterity="500" Vitality="9000" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:05" MaximumGold="25" Sprite="perry.spr" />
+   <Npc Id="51" Name="Devlin" FriendlyName="Devlin" Type="69" Size="Small" MobDifficulty="None" Side="Neutral" AttackRange="4" SearchRange="0" BaseExperienceThrow="1" BaseDamageThrow="1" BaseDamageRange="1" Dexterity="500" Vitality="9000" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:30" MaximumGold="25" Sprite="devlin.spr" />
+   <Npc Id="52" Name="Dummy" FriendlyName="Dummy" Type="34" Size="Small" Side="Wild" AttackRange="1" SearchRange="7" BaseExperienceThrow="12" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="25" Vitality="30" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:02.1000000" MaximumGold="300" IsStationary="True" Sprite="dummy.spr" />
+   <Npc Id="53" Name="Attack-Dummy" FriendlyName="Attack Dummy" Type="34" Size="Small" Side="Wild" AttackRange="1" SearchRange="7" BaseExperienceThrow="16" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="25" Vitality="30" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:02.1000000" MaximumGold="400" Sprite="dummy.spr" />
+   <Npc Id="54" Name="Energy-Sphere" FriendlyName="Energy Sphere" Type="35" Size="Large" MobDifficulty="None" Side="Wild" AttackRange="1" SearchRange="7" BaseExperienceThrow="0" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="5" Vitality="30" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:01:00" MaximumGold="0"  />
+   <Npc Id="55" Name="ShopKeeper-W" FriendlyName="Shop Keeper" Type="15" Size="Small" MobDifficulty="None" Side="Neutral" AttackRange="1" SearchRange="0" BaseExperienceThrow="1" BaseDamageThrow="1" BaseDamageRange="1" Dexterity="5" Vitality="30" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:15" MaximumGold="25" Sprite="shopkpr.spr" MerchantId="1" MerchantType="General" />
+   <Npc Id="56" Name="Gandlf" FriendlyName="Wizard" Type="19" Size="Small" MobDifficulty="None" Side="Neutral" AttackRange="1" SearchRange="0" BaseExperienceThrow="1" BaseDamageThrow="1" BaseDamageRange="1" Dexterity="5" Vitality="30" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:05" MaximumGold="25" Sprite="gandlf.spr" />
+   <Npc Id="57" Name="Howard" FriendlyName="Warehouse Keeper" Type="20" Size="Small" MobDifficulty="None" Side="Neutral" AttackRange="1" SearchRange="0" BaseExperienceThrow="1" BaseDamageThrow="1" BaseDamageRange="1" Dexterity="5" Vitality="30" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:30" MaximumGold="25" Sprite="howard.spr" MerchantType="Warehouse" />
+   <Npc Id="58" Name="Guard-Aresden" FriendlyName="Guard" Type="21" Size="Small" Side="Aresden" AttackRange="5" SearchRange="8" BaseExperienceThrow="0" BaseDamageThrow="3" BaseDamageRange="8" Dexterity="75" Vitality="345" Magic="333" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:01" MaximumGold="0" Sprite="guard.spr" />
+   <Npc Id="59" Name="Guard-Elvine" FriendlyName="Guard" Type="21" Size="Small" Side="Elvine" AttackRange="5" SearchRange="8" BaseExperienceThrow="0" BaseDamageThrow="3" BaseDamageRange="8" Dexterity="75" Vitality="345" Magic="333" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:01" MaximumGold="0" Sprite="guard.spr" />
+   <Npc Id="60" Name="Guard-Neutral" FriendlyName="Guard" Type="21" Size="Small" Side="Neutral" AttackRange="5" SearchRange="8" BaseExperienceThrow="0" BaseDamageThrow="3" BaseDamageRange="8" Dexterity="75" Vitality="345" Magic="333" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:01" MaximumGold="0" Sprite="guard.spr" />
+   <Npc Id="61" Name="Tom" FriendlyName="Blacksmith Keeper" Type="24" Size="Small" MobDifficulty="None" Side="Neutral" AttackRange="1" SearchRange="0" BaseExperienceThrow="1" BaseDamageThrow="1" BaseDamageRange="1" Dexterity="5" Vitality="30" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:05" MaximumGold="25" Sprite="tom.spr" MerchantId="2" MerchantType="Blacksmith" />
+   <Npc Id="62" Name="William" FriendlyName="City Hall Officer" Type="25" Size="Small" MobDifficulty="None" Side="Neutral" AttackRange="1" SearchRange="0" BaseExperienceThrow="1" BaseDamageThrow="1" BaseDamageRange="1" Dexterity="5" Vitality="30" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:05" MaximumGold="25" Sprite="william.spr" />
+   <Npc Id="63" Name="Kennedy" FriendlyName="Guild Hall Officer" Type="26" Size="Small" MobDifficulty="None" Side="Neutral" AttackRange="1" SearchRange="0" BaseExperienceThrow="1" BaseDamageThrow="1" BaseDamageRange="1" Dexterity="5" Vitality="30" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:05" MaximumGold="25" Sprite="kennedy.spr" />
+   <Npc Id="64" Name="AGT-Aresden" FriendlyName="Arrow Guard Tower" Type="36" Size="Large" Side="Aresden" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="5" BaseDamageRange="8" Dexterity="25" Vitality="1500" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.6000000" MaximumGold="15000" IsStationaryAttack="True" Sprite="gt-arrow.spr" />
+   <Npc Id="65" Name="AGT-Elvine" FriendlyName="Arrow Guard Tower" Type="36" Size="Large" Side="Elvine" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="5" BaseDamageRange="8" Dexterity="25" Vitality="1500" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.6000000" MaximumGold="15000" IsStationaryAttack="True" Sprite="gt-arrow.spr" />
+   <Npc Id="66" Name="CGT-Aresden" FriendlyName="Cannon Guard Tower" Type="37" Size="Large" Side="Aresden" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="10" BaseDamageRange="14" Dexterity="25" Vitality="1500" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:01.8000000" MaximumGold="15000" IsStationaryAttack="True" Sprite="gt-cannon.spr" />
+   <Npc Id="67" Name="CGT-Elvine" FriendlyName="Cannon Guard Tower" Type="37" Size="Large" Side="Elvine" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="10" BaseDamageRange="14" Dexterity="25" Vitality="1500" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:01.8000000" MaximumGold="15000" IsStationaryAttack="True" Sprite="gt-cannon.spr" />
+   <Npc Id="68" Name="MS-Aresden" FriendlyName="Mana Collector" Type="38" Size="Large" Side="Aresden" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="25" Vitality="1500" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.8000000" MaximumGold="15000" IsStationary="True" Sprite="manacollector.spr" />
+   <Npc Id="69" Name="MS-Elvine" FriendlyName="Mana Collect" Type="38" Size="Large" Side="Elvine" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="25" Vitality="1500" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.8000000" MaximumGold="15000" IsStationary="True" Sprite="manacollector.spr" />
+   <Npc Id="70" Name="DT-Aresden" FriendlyName="Detector" Type="39" Size="Large" Side="Aresden" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="25" Vitality="1500" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.8000000" MaximumGold="15000" IsStationary="True" Sprite="detector.spr" />
+   <Npc Id="71" Name="DT-Elvine" FriendlyName="Detector" Type="39" Size="Large" Side="Elvine" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="25" Vitality="1500" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.8000000" MaximumGold="15000" IsStationary="True" Sprite="detector.spr" />
+   <Npc Id="72" Name="ESG-Aresden" FriendlyName="Energy Shield Generator" Type="40" Size="Large" Side="Aresden" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="25" Vitality="1500" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.8000000" MaximumGold="15000" IsStationary="True" Sprite="esg.spr" />
+   <Npc Id="73" Name="ESG-Elvine" FriendlyName="Energy Shield Generator" Type="40" Size="Large" Side="Elvine" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="25" Vitality="1500" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.8000000" MaximumGold="15000" IsStationary="True" Sprite="esg.spr" />
+   <Npc Id="74" Name="GMG-Aresden" FriendlyName="Grand Magic Generator" Type="41" Size="Large" Side="Aresden" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="2500" Vitality="150000" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.8000000" MaximumGold="15000" IsStationary="True" Sprite="gmg.spr" />
+   <Npc Id="75" Name="GMG-Elvine" FriendlyName="Grand Magic Generator" Type="41" Size="Large" Side="Elvine" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="2500" Vitality="150000" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.8000000" MaximumGold="15000" IsStationary="True" Sprite="gmg.spr" />
+   <Npc Id="76" Name="ManaStone" FriendlyName="Mana Stone" Type="42" Size="Large" Side="Neutral" AttackRange="8" SearchRange="8" BaseExperienceThrow="600" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="2500" Vitality="150000" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.5000000" MaximumGold="15000" IsStationary="True" Sprite="manastone.spr" />
+   <Npc Id="77" Name="LWB-Aresden" FriendlyName="Light War Beetle" Type="43" Size="Large" Side="Aresden" AttackRange="8" SearchRange="7" BaseExperienceThrow="400" BaseDamageThrow="10" BaseDamageRange="5" Dexterity="225" Vitality="750" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:00.7000000" MaximumGold="10000" Sprite="lwb.spr" />
+   <Npc Id="78" Name="LWB-Elvine" FriendlyName="Light War Beetle" Type="43" Size="Large" Side="Elvine" AttackRange="8" SearchRange="7" BaseExperienceThrow="400" BaseDamageThrow="10" BaseDamageRange="5" Dexterity="225" Vitality="750" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:00.7000000" MaximumGold="10000" Sprite="lwb.spr" />
+   <Npc Id="79" Name="GHK" FriendlyName="God's Hand Knight" Type="44" Size="Large" Side="Elvine" AttackRange="4" SearchRange="7" BaseExperienceThrow="600" BaseDamageThrow="10" BaseDamageRange="9" Dexterity="225" Vitality="1050" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:00.7000000" MaximumGold="15000" Sprite="ghk.spr" />
+   <Npc Id="80" Name="GHKABS" FriendlyName="God's Hand Knight Calvary" Type="45" Size="Large" Side="Elvine" AttackRange="5" SearchRange="7" BaseExperienceThrow="1000" BaseDamageThrow="13" BaseDamageRange="12" Dexterity="225" Vitality="2400" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:00.6000000" MaximumGold="25000" Sprite="ghkabs.spr" />
+   <Npc Id="82" Name="TK" FriendlyName="Temple Knight" Type="46" Size="Large" Side="Aresden" AttackRange="4" SearchRange="7" BaseExperienceThrow="600" BaseDamageThrow="10" BaseDamageRange="9" Dexterity="225" Vitality="1050" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:00.7000000" MaximumGold="15000" Sprite="tk.spr" />
+   <Npc Id="83" Name="BG" FriendlyName="Battle Golem" Type="47" Size="Large" Side="Aresden" AttackRange="5" SearchRange="7" BaseExperienceThrow="1000" BaseDamageThrow="13" BaseDamageRange="12" Dexterity="225" Vitality="2400" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:00.6000000" MaximumGold="25000" Sprite="bg.spr" />
+   <Npc Id="84" Name="YB-Aresden" FriendlyName="Mercenary" Type="1" Size="Large" Side="Aresden" AttackRange="3" SearchRange="7" BaseExperienceThrow="180" BaseDamageThrow="8" BaseDamageRange="5" Dexterity="75" Vitality="255" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.6000000" MaximumGold="4500" />
+   <Npc Id="85" Name="YB-Elvine" FriendlyName="Mercenary" Type="1" Size="Large" Side="Elvine" AttackRange="3" SearchRange="7" BaseExperienceThrow="180" BaseDamageThrow="8" BaseDamageRange="5" Dexterity="75" Vitality="255" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:00.6000000" MaximumGold="4500"  />
+   <Npc Id="86" Name="CP-Aresden" FriendlyName="Catapult" Type="51" Size="Large" Side="Aresden" AttackRange="9" SearchRange="9" BaseExperienceThrow="500" BaseDamageThrow="10" BaseDamageRange="14" Dexterity="25" Vitality="1500" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:01.6000000" MaximumGold="12500" Sprite="catapult.spr" />
+   <Npc Id="87" Name="CP-Elvine" FriendlyName="Catapult" Type="51" Size="Large" Side="Elvine" AttackRange="9" SearchRange="9" BaseExperienceThrow="500" BaseDamageThrow="10" BaseDamageRange="14" Dexterity="25" Vitality="1500" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:01.6000000" MaximumGold="12500" Sprite="catapult.spr" />
+   <Npc Id="88" Name="Gail" FriendlyName="Gail" Type="90" Size="Small" Side="Neutral" AttackRange="1" SearchRange="0" BaseExperienceThrow="1" BaseDamageThrow="1" BaseDamageRange="1" Dexterity="5" Vitality="30" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:10" ActionTime="00:00:05" MaximumGold="25" Sprite="gail.spr" />
+   <Npc Id="89" Name="Sor-Aresden" FriendlyName="Sorceress" Type="82" Size="Medium" Side="Aresden" AttackRange="6" SearchRange="7" BaseExperienceThrow="500" BaseDamageThrow="11" BaseDamageRange="10" Dexterity="225" Vitality="900" Magic="6333" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:00.7000000" MaximumGold="12500" Sprite="sorceress.spr" />
+   <Npc Id="90" Name="Sor-Elvine" FriendlyName="Sorceress" Type="82" Size="Medium" Side="Elvine" AttackRange="6" SearchRange="7" BaseExperienceThrow="500" BaseDamageThrow="11" BaseDamageRange="10" Dexterity="225" Vitality="900" Magic="6333" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:00.7000000" MaximumGold="12500" Sprite="sorceress.spr" />
+   <Npc Id="91" Name="ATK-Aresden" FriendlyName="Ancient Temple Knight" Type="83" Size="Large" Side="Aresden" AttackRange="3" SearchRange="7" BaseExperienceThrow="1000" BaseDamageThrow="13" BaseDamageRange="12" Dexterity="250" Vitality="2400" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:01" MaximumGold="25000" Sprite="tpknight.spr" />
+   <Npc Id="92" Name="ATK-Elvine" FriendlyName="Ancient Temple Knight" Type="83" Size="Large" Side="Elvine" AttackRange="3" SearchRange="7" BaseExperienceThrow="1000" BaseDamageThrow="13" BaseDamageRange="12" Dexterity="250" Vitality="2400" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:01" MaximumGold="25000" Sprite="tpknight.spr" />
+   <Npc Id="93" Name="Elf-Aresden" FriendlyName="Elf Master" Type="84" Size="Medium" Side="Aresden" AttackRange="8" SearchRange="8" BaseExperienceThrow="400" BaseDamageThrow="10" BaseDamageRange="6" Dexterity="225" Vitality="750" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:00.7000000" MaximumGold="10000" Sprite="elfmaster.spr" />
+   <Npc Id="94" Name="Elf-Elvine" FriendlyName="Elf Master" Type="84" Size="Medium" Side="Elvine" AttackRange="8" SearchRange="8" BaseExperienceThrow="400" BaseDamageThrow="10" BaseDamageRange="6" Dexterity="225" Vitality="750" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:00.7000000" MaximumGold="10000" Sprite="elfmaster.spr" />
+   <Npc Id="95" Name="DSK-Aresden" FriendlyName="Dark Shadow Knight" Type="85" Size="Large" Side="Aresden" AttackRange="4" SearchRange="6" BaseExperienceThrow="600" BaseDamageThrow="10" BaseDamageRange="9" Dexterity="200" Vitality="1500" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:00.5000000" MaximumGold="15000" Sprite="darkknight.spr" />
+   <Npc Id="96" Name="DSK-Elvine" FriendlyName="Dark Shadow Knight" Type="85" Size="Large" Side="Elvine" AttackRange="4" SearchRange="6" BaseExperienceThrow="600" BaseDamageThrow="10" BaseDamageRange="9" Dexterity="200" Vitality="1500" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:00.5000000" MaximumGold="15000" Sprite="darkknight.spr" />
+   <Npc Id="97" Name="HBT-Aresden" FriendlyName="Heavy Battle Tank" Type="86" Size="Large" Side="Aresden" AttackRange="9" SearchRange="9" BaseExperienceThrow="500" BaseDamageThrow="10" BaseDamageRange="14" Dexterity="75" Vitality="1500" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:01.6000000" MaximumGold="12500" Sprite="hbtank.spr" />
+   <Npc Id="98" Name="HBT-Elvine" FriendlyName="Heavy Battle Tank" Type="86" Size="Large" Side="Elvine" AttackRange="9" SearchRange="9" BaseExperienceThrow="500" BaseDamageThrow="10" BaseDamageRange="14" Dexterity="75" Vitality="1500" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:01.6000000" MaximumGold="12500" Sprite="hbtank.spr" />
+   <Npc Id="99" Name="CT-Aresden" FriendlyName="Cannon Tower" Type="87" Size="Large" Side="Aresden" AttackRange="9" SearchRange="8" BaseExperienceThrow="500" BaseDamageThrow="8" BaseDamageRange="8" Dexterity="100" Vitality="2400" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.7000000" MaximumGold="12500" IsStationaryAttack="True" Sprite="cbturret.spr" />
+   <Npc Id="100" Name="CT-Elvine" FriendlyName="Cannon Tower" Type="87" Size="Large" Side="Elvine" AttackRange="9" SearchRange="8" BaseExperienceThrow="500" BaseDamageThrow="8" BaseDamageRange="8" Dexterity="100" Vitality="2400" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:00.7000000" MaximumGold="12500" IsStationaryAttack="True" Sprite="cbturret.spr" />
+   <Npc Id="101" Name="Bar-Aresden" FriendlyName="Barbarian" Type="88" Size="Medium" Side="Aresden" AttackRange="2" SearchRange="7" BaseExperienceThrow="800" BaseDamageThrow="15" BaseDamageRange="12" Dexterity="250" Vitality="1050" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:01.4000000" MaximumGold="20000" Sprite="babarian.spr" />
+   <Npc Id="102" Name="Bar-Elvine" FriendlyName="Barbarian" Type="88" Size="Medium" Side="Elvine" AttackRange="2" SearchRange="7" BaseExperienceThrow="800" BaseDamageThrow="15" BaseDamageRange="12" Dexterity="250" Vitality="1050" Magic="0" PhysicalAbsorption="50" MagicAbsorption="50" MaximumDeadTime="00:01:00" ActionTime="00:00:01.4000000" MaximumGold="20000" Sprite="babarian.spr" />
+   <Npc Id="103" Name="AGC-Aresden" FriendlyName="Arrow Tower" Type="89" Size="Large" Side="Aresden" AttackRange="9" SearchRange="8" BaseExperienceThrow="500" BaseDamageThrow="14" BaseDamageRange="10" Dexterity="100" Vitality="3000" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:01.6000000" MaximumGold="12500" IsStationaryAttack="True" Sprite="acannon.spr" />
+   <Npc Id="104" Name="AGC-Elvine" FriendlyName="Arrow Tower" Type="89" Size="Large" Side="Elvine" AttackRange="9" SearchRange="8" BaseExperienceThrow="500" BaseDamageThrow="14" BaseDamageRange="10" Dexterity="100" Vitality="3000" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:01.6000000" MaximumGold="12500" IsStationaryAttack="True" Sprite="acannon.spr" />
+   <Npc Id="105" Name="gate-a" FriendlyName="Gate" Type="91" Size="Large" Side="Aresden" AttackRange="1" SearchRange="1" BaseExperienceThrow="10000" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="400" Vitality="6000" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:01.6000000" MaximumGold="250000" IsStationary="True" Sprite="gate.spr" />
+   <Npc Id="106" Name="gate-e" FriendlyName="Gate" Type="91" Size="Large" Side="Elvine" AttackRange="1" SearchRange="1" BaseExperienceThrow="10000" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="400" Vitality="6000" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:01.6000000" MaximumGold="250000" IsStationary="True" Sprite="gate.spr" />
+
+   <Npc IsHuman="True" Id="107" Name="Elvine-Guard" FriendlyName="Elvine Guard" Size="Small" Side="Elvine" AttackRange="3" SearchRange="7" Strength="200" Dexterity="200" Vitality="300" Magic="0" MaximumDeadTime="00:00:10" AIDifficulty="Heroic" AIBehaviour="Defender" AIClass="Random" AIEquipment="Hero" ActionTime="00:00:00.4000000" />
+   <Npc IsHuman="True" Id="108" Name="Aresden-Guard" FriendlyName="Aresden Guard" Size="Small" Side="Aresden" AttackRange="3" SearchRange="7" Strength="200" Dexterity="200" Vitality="300" Magic="0" MaximumDeadTime="00:00:10" AIDifficulty="Heroic" AIBehaviour="Defender" AIClass="Random" AIEquipment="Hero" ActionTime="00:00:00.4000000" />
+
+   <Npc Id="120" Name="Super-Dummy" FriendlyName="Dummy" Type="34" Size="Small" Side="Wild" AttackRange="1" SearchRange="7" BaseExperienceThrow="12" BaseDamageThrow="0" BaseDamageRange="0" Dexterity="25" Vitality="400" Magic="0" PhysicalAbsorption="0" MagicAbsorption="0" MaximumDeadTime="00:00:03" ActionTime="00:00:02.1000000" MaximumGold="300" IsStationary="True" Sprite="dummy.spr" />
+   <Npc Id="121" Name="Skeleton-Minion" FriendlyName="Minion" Type="11" Size="Small" Side="Wild" AttackRange="2" SearchRange="8" BaseExperienceThrow="20" BaseDamageThrow="5" BaseDamageRange="7" Dexterity="75" Vitality="100" Magic="0" PhysicalAbsorption="20" MagicAbsorption="20" MaximumDeadTime="00:00:05" ActionTime="00:00:00.6000000" MaximumGold="0" Sprite="ske.spr" Colour="10" />
+
+   <Npc IsHuman="True" Id="130" Name="Faction-Npc" FriendlyName="Faction Npc" Size="Small" Side="Wild" AttackRange="3" SearchRange="7" Strength="200" Dexterity="200" Vitality="300" Magic="0" MaximumDeadTime="00:00:10" AIDifficulty="Heroic" AIBehaviour="Random" AIClass="Random" AIEquipment="Light" ActionTime="00:00:00.4000000" />
+   <Npc IsHuman="True" Id="131" Name="Mage-Npc-Healer" FriendlyName="Mage Npc Healer" Size="Small" Side="Wild" AttackRange="3" SearchRange="7" Strength="200" Dexterity="200" Vitality="300" Magic="0" MaximumDeadTime="00:00:10" AIDifficulty="Heroic" AIBehaviour="Healer" AIClass="Mage" AIEquipment="Light" ActionTime="00:00:00.4000000" />
+   <Npc IsHuman="True" Id="132" Name="Mage-Npc-Defender" FriendlyName="Mage Npc Defender" Size="Small" Side="Wild" AttackRange="3" SearchRange="7" Strength="200" Dexterity="200" Vitality="300" Magic="0" MaximumDeadTime="00:00:10" AIDifficulty="Heroic" AIBehaviour="Defender" AIClass="Mage" AIEquipment="Light" ActionTime="00:00:00.4000000" />
+   <Npc IsHuman="True" Id="133" Name="Mage-Npc-Supporter" FriendlyName="Mage Npc Supporter" Size="Small" Side="Wild" AttackRange="3" SearchRange="7" Strength="200" Dexterity="200" Vitality="300" Magic="0" MaximumDeadTime="00:00:10" AIDifficulty="Heroic" AIBehaviour="Supporter" AIClass="Mage" AIEquipment="Light" ActionTime="00:00:00.4000000" />
+</Npcs>
